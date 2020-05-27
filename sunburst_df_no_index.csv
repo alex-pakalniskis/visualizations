@@ -1,4 +1,4 @@
-ids,labels,parent, color
+ids,labels,parent,color
 Flavors,Flavors,,#D3D3D3
 Effects,Effects,,#D3D3D3
 Ammonia,Ammonia,Flavors,#75816b
