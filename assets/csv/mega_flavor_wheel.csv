@@ -1,0 +1,105 @@
+FourthWheel,ThirdWheel,SecondWheel,FirstWheel,ids,parent
+Mimosa,Blossoms,Flowery,Sweet,Mimosa,Blossoms
+Liliac,Blossoms,Flowery,Sweet,Liliac,Blossoms
+Orange,Blossoms,Flowery,Sweet,Orange,Blossoms
+Cherry,Rose Like,Flowery,Sweet,Cherry,Rose Like
+Apricot,Rose Like,Flowery,Sweet,Apricot,Rose Like
+Violet,Rose Like,Flowery,Sweet,Violet,Rose Like
+Rose,Rose Like,Flowery,Sweet,Rose,Rose Like
+Jasmin,Rose Like,Flowery,Sweet,Jasmin,Rose Like
+Blueberry,Berries,Fruity,Sweet,Blueberry,Berries
+Raspberry,Berries,Fruity,Sweet,Raspberry,Berries
+Strawberry,Berries,Fruity,Sweet,Strawberry,Berries
+Pineapple,Tropical,Fruity,Sweet,Pineapple,Tropical
+Mango,Tropical,Fruity,Sweet,Mango,Tropical
+Mellon,Tropical,Fruity,Sweet,Mellon,Tropical
+Guava,Tropical,Fruity,Sweet,Guava,Tropical
+Pear,Rosaceae,Fruity,Sweet,Pear,Rosaceae
+Apple,Rosaceae,Fruity,Sweet,Apple,Rosaceae
+Peach,Rosaceae,Fruity,Sweet,Peach,Rosaceae
+Plum,Rosaceae,Fruity,Sweet,Plum,Rosaceae
+Cedar,Spices,Warm,Spicy,Cedar,Spices
+Black Pepper,Spices,Warm,Spicy,Black Pepper,Spices
+Green Pepper,Spices,Warm,Spicy,Green Pepper,Spices
+Rosemary,Herbs,Sharp,Spicy,Rosemary,Herbs
+Sage,Herbs,Sharp,Spicy,Sage,Herbs
+Basil,Herbs,Sharp,Spicy,Basil,Herbs
+Thyme,Herbs,Sharp,Spicy,Thyme,Herbs
+Dill,Herbs,Sharp,Spicy,Dill,Herbs
+Cinnamon,Herbs,Sharp,Spicy,Cinnamon,Herbs
+Saffron,Herbs,Sharp,Spicy,Saffron,Herbs
+Cloves,Herbs,Sharp,Spicy,Cloves,Herbs
+Parsley,Herbs,Sharp,Spicy,Parsley,Herbs
+Fennel,Herbs,Sharp,Spicy,Fennel,Herbs
+Ginger,Herbs,Sharp,Spicy,Ginger,Herbs
+Mint,Herbs,Sharp,Spicy,Mint,Herbs
+Naga,Chili,Sharp,Spicy,Naga,Chili
+Jalapeno,Chili,Sharp,Spicy,Jalapeno,Chili
+Tabasco,Chili,Sharp,Spicy,Tabasco,Chili
+Pink Salt,Salty,Mineral,Bitter,Pink Salt,Salty
+Sea Salt,Salty,Mineral,Bitter,Sea Salt,Salty
+Ammonia,Chemical,Mineral,Bitter,Ammonia,Chemical
+Metallic,Chemical,Mineral,Bitter,Metallic,Chemical
+Vinegar,Chemical,Mineral,Bitter,Vinegar,Chemical
+Coffee,Plants,Vegetal,Bitter,Coffee,Plants
+Cocoa,Plants,Vegetal,Bitter,Cocoa,Plants
+Tea,Plants,Vegetal,Bitter,Tea,Plants
+Tobacco,Plants,Vegetal,Bitter,Tobacco,Plants
+Onion,Garlic,Vegetal,Bitter,Onion,Garlic
+Chives,Garlic,Vegetal,Bitter,Chives,Garlic
+Peas,Legumes,Vegetal,Bitter,Peas,Legumes
+Cucumber,Legumes,Vegetal,Bitter,Cucumber,Legumes
+Chestnut,Roasted,Nutty,Bitter,Chestnut,Roasted
+Peanut,Roasted,Nutty,Bitter,Peanut,Roasted
+Sesame,Roasted,Nutty,Bitter,Sesame,Roasted
+Pistachio,Roasted,Nutty,Bitter,Pistachio,Roasted
+Almond,Fresh,Nutty,Bitter,Almond,Fresh
+Walnut,Fresh,Nutty,Bitter,Walnut,Fresh
+Macadamia,Fresh,Nutty,Bitter,Macadamia,Fresh
+Butter,Cream,Dairy,Sour,Butter,Cream
+Sour Cream,Cream,Dairy,Sour,Sour Cream,Cream
+Whipped Cream,Cream,Dairy,Sour,Whipped Cream,Cream
+Cream Cheese,Milk,Dairy,Sour,Cream Cheese,Milk
+Blue Cheese,Milk,Dairy,Sour,Blue Cheese,Milk
+Sour Milk,Milk,Dairy,Sour,Sour Milk,Milk
+Pink Grapefruit,Orange,Citrus,Sour,Pink Grapefruit,Orange
+Blood Orange,Orange,Citrus,Sour,Blood Orange,Orange
+Sweet Orange,Orange,Citrus,Sour,Sweet Orange,Orange
+Mandarin,Orange,Citrus,Sour,Mandarin,Orange
+Grapefruit,Orange,Citrus,Sour,Grapefruit,Orange
+Bread Fruit,Orange,Citrus,Sour,Bread Fruit,Orange
+Lime,Lemon,Citrus,Sour,Lime,Lemon
+Sweet Lemon,Lemon,Citrus,Sour,Sweet Lemon,Lemon
+Lemon Grass,Lemon,Citrus,Sour,Lemon Grass,Lemon
+,,,,Blossoms,Flowery
+,,,,Rose Like,Flowery
+,,,,Berries,Fruity
+,,,,Tropical,Fruity
+,,,,Rosaceae,Fruity
+,,,,Spices,Warm
+,,,,Herbs,Sharp
+,,,,Chili,Sharp
+,,,,Salty,Mineral
+,,,,Chemical,Mineral
+,,,,Plants,Vegetal
+,,,,Garlic,Vegetal
+,,,,Legumes,Vegetal
+,,,,Roasted,Nutty
+,,,,Fresh,Nutty
+,,,,Cream,Dairy
+,,,,Milk,Dairy
+,,,,Orange,Citrus
+,,,,Lemon,Citrus
+,,,,Flowery,Sweet
+,,,,Fruity,Sweet
+,,,,Warm,Spicy
+,,,,Sharp,Spicy
+,,,,Mineral,Bitter
+,,,,Vegetal,Bitter
+,,,,Nutty,Bitter
+,,,,Dairy,Sour
+,,,,Citrus,Sour
+,,,,Sweet,
+,,,,Spicy,
+,,,,Bitter,
+,,,,Sour,
